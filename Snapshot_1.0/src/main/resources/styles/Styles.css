@@ -1,0 +1,36 @@
+.button {
+    -fx-font-weight: bold;
+    -fx-background-color: #0288d1;
+    -fx-text-fill: white;
+    -fx-font-size: 18;
+}
+
+.button:pressed {
+    
+    -fx-border-color: #039be5;
+    -fx-border-width: 4;
+    
+}
+
+.button2 {
+    
+    -fx-font-weight: bold;
+    -fx-background-color: #039be5;
+    -fx-text-fill: white;
+    -fx-font-size: 18;
+    
+}
+
+.button2:pressed {
+    
+    -fx-border-color: #0288d1;
+    -fx-border-width: 2;
+    
+}
+
+.text-field {
+    
+    -fx-background-color: white;
+    
+    
+}
